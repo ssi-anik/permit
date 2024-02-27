@@ -1,5 +1,10 @@
 # Laravel Permit
 
+> [!WARNING]  
+> Do not use this repository and package.
+> This is the extension of what is required by the organization.
+> Use the parent repo OR DON'T EVEN use it.  🤷
+
 Laravel Permit is an authorization and ACL package for laravel. Its fast and more customizable.
 You can easily handle role based ACL or specific user wise permission. So, Lets start a journey with Laravel Permit.
 
