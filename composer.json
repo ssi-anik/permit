@@ -1,5 +1,5 @@
 {
-    "name": "nahid/permit",
+    "name": "anik/permit",
     "description": "Permit is a laravel ACL and authorization package",
     "keywords": ["acl", "permit", "authorization"],
     "type": "library",
