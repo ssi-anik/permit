@@ -62,7 +62,7 @@ if (!function_exists('json_to_array')) {
             return $json;
         }
 
-        $json_out = json_decode($json, true);
+        $json_out = json_decode($json ?? '', true);
         if (is_string($json_out) || is_null($json_out)) {
             return [];
         }
